@@ -17,7 +17,7 @@ Join the ProducerX community to ask questions, report issues, share ideas, reque
 - 💡 [Ideas](https://github.com/arunadh007/ProducerX/discussions/6) — Suggest new features and improvements
 - 📊 [Polls](https://github.com/arunadh007/ProducerX/discussions/10) — Community polls and feedback
 - 🙏 [Q&A](https://github.com/arunadh007/ProducerX/discussions/4) — Questions, answers and support
-- 🙌 [Show and Tell](https://github.com/arunadh007/ProducerX/discussions/categories/show-and-tell) — Share your ProducerX website and customizations
+- 🙌 [Show and Tell](https://github.com/arunadh007/ProducerX/discussions/7) — Share your ProducerX website and customizations
 - 
 ## 📸 Website Preview
 
