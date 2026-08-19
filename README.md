@@ -8,7 +8,7 @@ ProducerX is a modern, dark, responsive and professionally designed Blogger them
 
 Join the ProducerX community to ask questions, report issues, share ideas, request features, get customization help, and showcase your website.
 
-👉 **[Join ProducerX Discussions](https://github.com/arunadh007/ProducerX/discussions3)**
+👉 **[Join ProducerX Discussions](https://github.com/arunadh007/ProducerX/discussions/3)**
 
 ### 🗂️ Discussion Categories
 
