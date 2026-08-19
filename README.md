@@ -6,6 +6,21 @@ ProducerX is a modern, dark, responsive and professionally designed Blogger them
 
 ## 📸 Website Preview
 
+## 💬 Community Discussions
+
+Join the ProducerX community to ask questions, report issues, share ideas, request features, get customization help, and showcase your website.
+
+👉 **[Join ProducerX Discussions](https://github.com/arunadh007/ProducerX/discussions)**
+
+### 🗂️ Discussion Categories
+
+- 📣 [Announcements](https://github.com/arunadh007/ProducerX/discussions/categories/announcements) — Official ProducerX updates and news
+- 💬 [General](https://github.com/arunadh007/ProducerX/discussions/categories/general) — General community discussions and theme customization
+- 💡 [Ideas](https://github.com/arunadh007/ProducerX/discussions/categories/ideas) — Suggest new features and improvements
+- 📊 [Polls](https://github.com/arunadh007/ProducerX/discussions/categories/polls) — Community polls and feedback
+- 🙏 [Q&A](https://github.com/arunadh007/ProducerX/discussions/categories/q-a) — Questions, answers and support
+- 🙌 [Show and Tell](https://github.com/arunadh007/ProducerX/discussions/categories/show-and-tell) — Share your ProducerX website and customizations
+
 ### 🏠 Home
 ![ProducerX Home](Screenshots/producerx-preview.png)
 
