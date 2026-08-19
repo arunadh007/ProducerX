@@ -99,10 +99,30 @@ Created and maintained by **Arun Adhikari**.
 
 ## 📄 License
 
+### Creative Commons Attribution-ShareAlike 4.0 International
+
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+ProducerX is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license.
+
+You are free to:
+
+- ✅ **Share** — copy and redistribute the theme
+- ✅ **Adapt** — remix, transform, and build upon the theme
+- ✅ **Commercial Use** — use the theme for commercial projects
+
+### 📌 Conditions
+
+- **Attribution (BY):** You must give appropriate credit to **Arun Adhikari**.
+- **ShareAlike (SA):** If you distribute a modified version, it must be shared under the same license.
+- **Changes:** You should indicate if modifications were made.
+
+### 🔗 Full License
+
+[View the full CC BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
+
+**© 2026 Arun Adhikari — ProducerX**
+
 Please check the repository license before modifying, redistributing or publishing modified versions of this theme.
 
 ---
-
-### 🎵 ProducerX
-
-**Create. Produce. Perform.**
