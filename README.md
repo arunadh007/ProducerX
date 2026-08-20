@@ -95,7 +95,7 @@ Initial release of the ProducerX Blogger theme.
 
 ## 👨‍🎤 Credits
 
-Created and maintained by **Arun Adhikari**.
+Created and maintained by **NNB Digital Media**, focused on building modern, creative, and reliable digital experiences for creators and independent projects.
 
 ## 📄 License
 
